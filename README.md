@@ -26,7 +26,7 @@ We've all had that one `Downloads` folder with 400+ unsorted files. SortWise fix
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/sortwise.git
+git clone https://github.com/ssuresh808/sortwise.git
 cd sortwise
 
 # Install
